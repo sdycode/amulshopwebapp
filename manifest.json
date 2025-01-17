@@ -3,8 +3,13 @@
     "short_name": "stock_management_app",
     "start_url": ".",
     "display": "standalone",
+<<<<<<< HEAD
     "background_color": "#11FFFFFF",
     "theme_color": "#11FFDDCC",
+=======
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+>>>>>>> origin/live-app
     "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
@@ -32,4 +37,8 @@
             "purpose": "maskable"
         }
     ]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/live-app
